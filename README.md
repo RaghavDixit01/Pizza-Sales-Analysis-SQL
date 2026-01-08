@@ -56,4 +56,3 @@ It contains the structure of all tables, including column names and data types.
 
 ---
 
-## 📁 Project Structure
